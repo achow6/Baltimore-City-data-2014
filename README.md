@@ -23,11 +23,11 @@ Considering the reports from the United Kingdom, this project uses Baltimore Vit
 5. [Percent of Residents - Black/African-American (Non-Hispanic)](https://vital-signs-bniajfi.hub.arcgis.com/datasets/3b27c89864714b109bde250c628d73e5_0) - This dataset shows the percentage of Baltimore City residents who identify as non-Hispanic Black/African American per neighborhood.
 
 # Data Answer
-![alt text](
+![alt text](https://github.com/achow6/Baltimore-City-data-2014/blob/main/Scatterplot.png)
 
 During the data analysis process, scatterplots were created for each pairing of variables (i.e. comparing "Pct African American" and "Violence per 1,000" or "Pct 8th Math" and "Pct Living Under Poverty Line") as an intial investigation for the cluster analysis. This is an example of one of the scatterplot comparisons. It compares percent of African Americans living in a neighborhood to percent of 8th graders passing MSA math in the same neighborhood. All of the scatterplots generally exhibited three clusters similar to the ones in this scatterplot, so a three-cluster analysis was conducted. It is also interesting to note that there appears to be a negative relationship between percent of African Americans and percent of 8th graders passing MSA math.
 
-![alt text](
+![alt text](https://github.com/achow6/Baltimore-City-data-2014/blob/main/Cluster.png)
 
 This is the Solver output for the three-cluster analysis.
 
@@ -37,7 +37,7 @@ The second cluster is represented by neighborhoods like Forest Park/Walbrook. Th
 
 The third cluster is represented by neighborhoods like Cedonia/Frankford. The percent of 8th graders passing MSA math and reading are slightly below the overall average. There is an above average percentage of African American residents (but not as high as the second cluster), below average violence rate (but higher than the first and second clusters), and residents are generally living above the poverty line.
 
-![alt text](
+![alt text](https://github.com/achow6/Baltimore-City-data-2014/blob/main/Bar%20Chart.png)
 
 This shows the relative number of neighborhoods in each cluster. In cluster 1, there are 16 neighborhoods. In cluster 2, there are 25 neighborhoods. In cluster 3, there are 14 neighborhoods.
 
