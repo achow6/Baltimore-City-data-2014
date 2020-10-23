@@ -45,6 +45,8 @@ This shows the relative number of neighborhoods in each cluster. In cluster 1, t
 
 The cluster analysis suggests that Baltimore City neighborhoods can be grouped into three clusters based on the variables analyzed in this project. In general, the percent of 8th graders passing MSA math in all clusters is below average. This suggests that outliers with high percentages of 8th graders passing MSA math, such as Greater Roland Park/Poplar Hill where almost 89% of students passed MSA math, could be pulling up the average. Further research is needed to determine why there is such a discrepancy between these neighborhoods. The first cluster exhibited an above average percentage of 8th graders passing MSA reading compared to the other two clusters (which were below average). The main distinctions between the first cluster and the other two clusters is its low percentage of African American residents and high percentage of households living above the poverty line.
 
+# Recommendation
+
 # Step-by-Step Data Analysis
 **Data Cleaning:**
 1. Datasets were downloaded from Vital Signs Open Data
