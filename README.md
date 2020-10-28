@@ -105,8 +105,19 @@ Additional Informaiton Needed for Better Solution:
 9. A bar chart was created to visually show how many neighborhoods are in each cluster
 
 **Histogram/Pivot Table:**
+1. Selected complete data set in Multiple Regression tab and inserted pivot table into a new tab
+2. For MSA Reading, I created four pivot tables. For the first pivot table, I used "Percentage 8th Reading" as my filters and CSA2010 as my rows, and "Average of Pct African American", "Average of Pct Household Living Below Poverty", and "Average of Violence Per 1,000" as my values
+3. I followed the same steps to create rest of the pivot tables
+4. Starting from first pivot table, for my filters, I selected the bottom 14 values, and then for second pivot table, for filters, I selected the next bottom middle 14 values
+5. Similarly, for the third pivot table, for filters, I selected top middle 14 values, and for my final pivot table, for filters, I selected the rest of the data
+6. Then to create histogram, I copied and pasted all the grand total row of each pivot table on the side and created histogram
+7. I followed the same exact steps for MSA Math pivot tables and histogram
 
 **Multiple Linear Regression:**
+1. For multiple regression summary, I used the regression function under Data Analysis, and I selected columns of "Pct Household Living Below Poverty", "Violence Per 1,000", and "Pct African American" as my x input values and selected the "MSA 8th Grade Reading" as my y input value
+2.	I followed the same steps for MSA Math regression except that my y input value was "MSA 8th Grade Math" column
+3.	For MSA reading correlation, I first selected "Pct Household Below Poverty" column and "MSA 8th Grade Reading" column and used the correlation function under Data Analysis. Then I did the same thing for rest of the factors including "Violence Per 1,000" and "Pct African America"
+4.	I followed the same steps for MSA Math correlation except that for MSA math correlation, I used "MSA 8th Grade Math" column instead of the reading column
 
 
 
