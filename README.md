@@ -7,7 +7,7 @@ Baltimore City is generally characterized by the ["Black Butterfly"](https://app
 Considering the reports from the United Kingdom, this project uses Baltimore Vital Signs Open Data to determine if there is a relationship between environmental factors, such as percent of African Americans per neighborhood, violent crime rate per 1,000, and percentage of family households living under the poverty line, and children's education, measured through percent passing Maryland School Assessment (MSA) reading and math.
 
 # Business Question
-How different parent variables, such as poverty rate, crime rate, and racial demographics affect children’s education in Baltimore City? 
+How do different parent variables, such as poverty rate, crime rate, and racial demographics affect children’s education in Baltimore City? 
 
 # Data Question
 1. Cluster Analysis: How can different neighborhoods be grouped based on percent of African Americans per neighborhood, violent crime rate per 1,000, percentage of family households living under the poverty line, and percent passing Maryland School Assessment (MSA) reading and math?
@@ -80,7 +80,9 @@ The cluster analysis suggests that Baltimore City neighborhoods can be grouped i
 
 # Recommendation
 In Baltimore City, low socioeconomic status of African American parents negatively affect their children’s educational outcome. According to McKinsey & Company, this achievement gap is not just affecting the African American children, their families, and the community but also the country as a whole. Researchers found out that [“the persistence of the educational achievement gap imposes on the United States the economic equivalent of a permanent national recession](https://www.naeyc.org/resources/pubs/yc/may2018/achievement-gap)." Thus, it is really important to come up with solutions that could bring equity in education in Baltimore City.
+
 As mentioned in the beginning, the UK found that [parental and environmental factors affect child education outcomes](https://www.iser.essex.ac.uk/files/iser_working_papers/2010-16.pdf). With that in mind, Baltimore City should consider adult education programs and greater public funding for businesses in neighborhoods with high percentages of African American residents. This will hopefully help raise household income in underpriviledged neighborhoods, and therefore, also decrease the gap between predominantly African American and white neighborhoods.
+
 Several studies found that parental involvement leads to a positive educational outcome, including increased achievement in reading and math exams. Specifically, [research](https://files.eric.ed.gov/fulltext/ED573649.pdf) shows that parental involvement for students of color and those from low household income impacts their children’s education outcome more significantly. An existing program called “Parent Institute for Quality Education (PIQE) is a program that effectively increases parental involvement by teaching and supporting low-income and ethnically-diverse parents. This program trains parents to support their children to be successful in school and create a home learning environment. PIQE also partnered with Baltimore City schools, but it is a “do it yourself” version of training since the [PIQE](https://www.piqe.org/) does not have a presence in Baltimore. Thus, if Baltimore City government can invest in this program to be a stable government supported program for neighborhoods in cluster 2 and 3 (where they had a high African American percentage and high below-poverty rate), this would help supporting the educational development of the children in those areas.
 
 Additional Informaiton Needed for Better Solution:
@@ -118,7 +120,3 @@ Additional Informaiton Needed for Better Solution:
 2.	I followed the same steps for MSA Math regression except that my y input value was "MSA 8th Grade Math" column
 3.	For MSA reading correlation, I first selected "Pct Household Below Poverty" column and "MSA 8th Grade Reading" column and used the correlation function under Data Analysis. Then I did the same thing for rest of the factors including "Violence Per 1,000" and "Pct African America"
 4.	I followed the same steps for MSA Math correlation except that for MSA math correlation, I used "MSA 8th Grade Math" column instead of the reading column
-
-
-
-
