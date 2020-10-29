@@ -3,6 +3,8 @@
 # Abstract
 Studies conducted in different countries have shown that environmental and parental factors can impact children's education. This project serves to determine whether this could be said about Baltimore City using Baltimore Vital Signs Open Data through cluster analysis, multiple linear regression, and pivot tables/histograms. The clusters suggested that Baltimore City neighborhoods can be grouped into three clusters based on percent of African Americans per neighborhood, violent crime rate per 1,000, and percentage of family households living under the poverty line, and percentage of 8th graders passing MSA math and reading. In general, the cluster that performed relatively well on MSA had a low percentage of African American residents and a high percentage of households living above the poverty line.
 
+Taking these findings into account, we recommend Baltimore City to create adult higher education programs, increase public funding for businesses in predominantly African American neighborhoods, and
+
 # Background Information
 Studies in the United Kingdom have shown that [environmental/parental factors can have a large impact on children's education](https://www.iser.essex.ac.uk/files/iser_working_papers/2010-16.pdf). This project serves to determine if environmental factors, such as income, crime rate, and racial demographics, can be related to children's educations in Baltimore. This project also looks at how different Baltimore neighborhoods can be clustered based on these environmental factors and education outcomes.
 
