@@ -92,7 +92,7 @@ Several studies found that parental involvement leads to a positive educational 
 Additional Information Needed for Better Solution:
 - Recent data on parent variables to see if parent variables have the same effect on their children’s educational outcome even during the pandemic, where most of the classes are held virtually
 - Data on parents' education levels and occupations
-- Data on why low-income African American parents lack parental involvement. Is it because they lack financial resources? or because of time constraint? 
+- Percentage of parental involvement in Baltimore City public schools specifically. And is it mainly due to lack of financial resources? or time constraint? 
 
 # Step-by-Step Data Analysis
 **Data Cleaning:**
